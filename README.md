@@ -18,20 +18,7 @@
 ###Demo video
 https://github.com/seenimd/Resturentapp_ui/assets/144776468/1d8cf70b-9de9-4c88-add4-38d1834489a6
 
-###Sign in
-![Screenshot_20237](https://github.com/seenimd/Resturentapp_ui/assets/144776468/a2622b42-9d55-417c-87d1-22e9f1848bea)
 
-###dashboard
-![Screenshot_20230906-075941](https://github.com/seenimd/Resturentapp_ui/assets/144776468/5cf08d27-07f5-4875-abf8-bc10b6a154bd)
-
-###Table Booking Page
-![Screenshot_20238](https://github.com/seenimd/Resturentapp_ui/assets/144776468/6609ea4b-37c2-4b4a-8ffd-e3459bd9a650)
-
-###home page
-![Screenshot_20236](https://github.com/seenimd/Resturentapp_ui/assets/144776468/be3b7df1-1377-4cee-9c59-c9661ec59d85)
-
-###Item page
-![Screenshot_20233](https://github.com/seenimd/Resturentapp_ui/assets/144776468/0c9f5e04-52c5-4c84-bcc5-c2759af4af56)
 
 A few resources to get you started if this is your first Flutter project:
 
